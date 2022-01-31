@@ -1,6 +1,5 @@
 # driftpy-arb
-drift protocol bots using python sdk (driftpy)
-
+drift protocol bots using python sdk
 
 dependencies: [driftpy](https://drift-labs.github.io/driftpy/)
 
