@@ -1,0 +1,3 @@
+[submodule "driftpy"]
+	path = driftpy
+	url = git@github.com:drift-labs/driftpy.git
