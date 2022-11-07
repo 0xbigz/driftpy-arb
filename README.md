@@ -1,5 +1,8 @@
 # driftpy-arb
-drift protocol bots using python sdk
+
+*Note: this example is DEPRECATED*
+
+drift protocol-v1 bots using python sdk
 
 dependencies: [driftpy](https://drift-labs.github.io/driftpy/)
 
